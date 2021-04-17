@@ -703,15 +703,15 @@ border-radius: 4px;
   }
   
   .modal-icon{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 30px;
-    height: 30px;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 50% ;
-    background-color:#FFFFFF;
-  }
+display: flex;
+justify-content: center;
+align-items: center;
+width: 30px;
+height: 30px;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 50% ;
+background-color:#FFFFFF;
+}
   
   .backdrop .modal{
     display: flex;
